@@ -1,0 +1,4 @@
+interface:
+  display_name: "极鲸云 Temu 关键词搜索"
+  short_description: "搜索和分析 Temu 关键词，洞察需求趋势、供给和竞争"
+  default_prompt: "使用 $geekbi-temu-keyword-search-skill 搜索并分析 Temu 关键词机会。"
